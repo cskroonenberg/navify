@@ -1,0 +1,4 @@
+client_id: YOUR_CLIENT_ID
+client_secret: YOUR_CLIENT_SECRET
+redirect_uri: http://localhost:9001/callback
+nav: https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC?si=wyJghT0xQbWYaV7IjbGYdg
